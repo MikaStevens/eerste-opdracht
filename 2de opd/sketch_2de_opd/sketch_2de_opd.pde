@@ -1,0 +1,11 @@
+size(500,500);
+background(100,0,0);
+stroke(0,0,230);
+strokeWeight(20);
+line(0,0,500,500);
+stroke(230,0,0);
+strokeWeight(20);
+line(0,500,500,0);
+stroke(0,230,0);
+strokeWeight(20);
+line(250,0,250,500);
